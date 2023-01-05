@@ -2,6 +2,10 @@ h1{
     color:red;
     background-color: aqua;
 }
+h3{
+    color: green;
+    font-size: 30px;
+}
 p{
     color:yellow;
 }
